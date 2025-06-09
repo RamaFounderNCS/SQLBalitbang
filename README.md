@@ -81,4 +81,4 @@ Distribusi tool ini berada di bawah **MIT License** — lihat file [LICENSE](LIC
 ## 📞 Kontak & Dukungan
 
 Jika menemukan masalah atau perlu bantuan, silakan buka [issue baru](https://github.com/RamaFounderNCS/SQLBalitbang/issues).  
-Untuk komunikasi langsung, hubungi **Mr. M05T3R** via WhatsApp: [MR_M05T3R](https://wa.me/6283846681933)
+Untuk komunikasi langsung, hubungi **MR.M05T3R** via WhatsApp: [MR.M05T3R](https://wa.me/6283846681933)
